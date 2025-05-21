@@ -1,7 +1,6 @@
 import java.util.Date
-
 package object PA_Function
-import java.time.LocalTime
+
 object pa_function {
 
   def log(date: Date,message : String) = {
